@@ -1,7 +1,6 @@
 html { 
 	height: 100%;
 	width: 100%;
-	overflow: 100%;
 }
 
 * {
@@ -75,7 +74,7 @@ https://www.w3schools.com/css/css_website_layout.asp */
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
-    padding: 10;
+    padding: 10px;
   }
 }
 @media screen and (max-width: 400px) {
